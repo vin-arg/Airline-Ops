@@ -237,6 +237,8 @@ def cl(**kw):
     base = dict(
         paper_bgcolor=WHITE, plot_bgcolor=WHITE,
         font=dict(family="Inter, system-ui, sans-serif", color="#1f2937", size=13),
+        title_font_color="#000000",   # ← ADD THIS
+        title_font_size=15,           # ← ADD THIS
         margin=dict(l=10, r=10, t=48, b=10),
         hoverlabel=dict(bgcolor=WHITE, bordercolor="#d1d5db", font_size=13),
         # Default axes — overridden when caller provides their own
