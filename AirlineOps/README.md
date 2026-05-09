@@ -110,4 +110,4 @@ The first load takes ~15–20 seconds while Pandas reads the full CSV. Subsequen
 
 ---
 
-*Built by [Your Name](https://github.com/your-username) · May 2026*
+*Built by [Vince Arguelles](https://github.com/vin-arg) · May 2026*
